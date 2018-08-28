@@ -64,7 +64,7 @@
 
 <script>
 export default {
-  name: "AddBook",
+  name: "EditB",
   data() {
     return {
       form: {
