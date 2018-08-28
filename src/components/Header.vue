@@ -6,17 +6,19 @@
 
 <script>
 export default {
-    name: 'Header',
-    data() {
-        return {
-
-        };
-    }
+  name: "Header",
+  data() {
+    return {};
+  }
 };
 </script>
 
 <style>
-.badge{
-    color: #EA943F;
+h1 {
+  margin-left: 25px;
+  margin-top: 25px;
+}
+.badge {
+  color: #ea943f;
 }
 </style>

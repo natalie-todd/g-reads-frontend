@@ -2,7 +2,7 @@
     <div>
 <b-nav pills>
   <b-nav-item>Authors</b-nav-item>
-  <b-nav-item active>Books</b-nav-item>
+  <b-nav-item>Books</b-nav-item>
 </b-nav>
         </div>
 </template>
@@ -17,4 +17,11 @@ export default {
 </script>
 
 <style>
+.nav {
+margin-left: 25px;
+margin-top: 25px;
+}
+.nav-item {
+background-color: #FFDDA1;
+}
 </style>
