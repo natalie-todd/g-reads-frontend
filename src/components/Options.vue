@@ -8,7 +8,7 @@
           tag="article"
           style="max-width: 70vw;"
           class="mb-2">
-    <b-button href="#" variant="primary">Authors</b-button>
+    <router-link to='/authors' tag='button' class='btn btn-primary' variant="primary">Authors</router-link>
   </b-card>
         </div>
             <div>
@@ -19,7 +19,7 @@
           tag="article"
           style="max-width: 70vw;"
           class="mb-2">
-    <b-button href="#" variant="primary">Books</b-button>
+    <router-link to='/books' tag='button' class='btn btn-primary' variant="primary">Books</router-link>
   </b-card>
         </div>
         </div>
